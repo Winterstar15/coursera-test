@@ -6,7 +6,7 @@ margin-right: 0px;
 h1{
 	text-align: center;
 }
-@media (max-width: 767px){
+@media (max-width: 768px){
 
 	.col-sm-1{
 		color: red;
@@ -21,7 +21,7 @@ h1{
 		margin: 1%;
 	}
 }
-@media (min-width: 768px) and (max-width: 991px){
+@media (min-width: 768px) and (max-width: 992px){
 	.col-md-2{
 		color: red;
 		background-color: skyblue;
