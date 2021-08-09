@@ -21,7 +21,6 @@ h1{
 		box-sizing: border-box;
 		float: both;
 		margin: 1%;
-		overflow: scroll;
 	}
 }
 @media (min-width: 768px) and (max-width: 992px){
