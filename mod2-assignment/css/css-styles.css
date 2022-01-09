@@ -15,7 +15,7 @@ h1{
 		background-color: skyblue;
 		padding: 0px;
 		width: 98%;
-		height: 150px;
+		height: 100px;
 		border: 1px solid black;
 		position: relative;
 		box-sizing: border-box;
@@ -118,7 +118,7 @@ h1{
 
 	width: 75%;
 	padding-top: 15px;
-	height: 150px;
+	height: 100px;
 	text-align: center;
 	box-sizing: border-box;
 	margin: auto;
